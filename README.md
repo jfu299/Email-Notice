@@ -1,4 +1,4 @@
-# Email-Notice
+# Email Notice
 
 Electronic Mail Message Transmission Notice
 
